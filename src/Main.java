@@ -44,6 +44,9 @@ public class Main {
 
         System.out.println(numList2);
 
+        // updated from home
+        System.out.println("Cloned and pulled from GitHub!!!");
+
 
 
     }
